@@ -1,5 +1,3 @@
-improt os
-wow
-ddd
-
-divmod
+import os
+print "good job"
+print "next step"
